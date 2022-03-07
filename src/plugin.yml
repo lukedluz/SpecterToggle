@@ -1,0 +1,7 @@
+name: HubToggle
+authors: [BaconCodes]
+version: 1.0
+main: net.hubtoggle.Main
+commands:
+  toggle:
+    aliases: [preferencias]
